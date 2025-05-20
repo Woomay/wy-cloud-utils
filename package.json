@@ -1,6 +1,6 @@
 {
   "name": "wy-cloud-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "工具",
   "main": "dist/wy-cloud-utils.cjs.js",
   "module": "dist/wy-cloud-utils.esm.js",
