@@ -9,3 +9,10 @@ export function randomColor() {
 export function randomDirection() {
   return Math.random() < 0.5 ? 1 : -1;
 }
+
+export function randomBoolean() {
+  return Math.random() < 0.5;
+}
+
+
+
